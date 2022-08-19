@@ -57,7 +57,7 @@
 
 Test the performance of the webpage after deploy by using [GTmetrix](https://gtmetrix.com/).
 
-![Project Performane result](./info/courses-center-performance.jpg)
+![Project Performane result](./info/courses-center-performance.png)
 
 ---
 
